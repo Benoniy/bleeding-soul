@@ -1,0 +1,3 @@
+A knife possessed of unique properties that allow it to guarantee the creation of a wraith of unique substance. Put simply it allows for someone to die without cutting off their connections to the land of the living essentially banishing them from the other side including the shadow lands.
+
+Even splitting the shroud would not allow this wraith passage, essentially the blade dooms them to an eternal existence haunting the mortal world.

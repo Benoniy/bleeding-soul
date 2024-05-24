@@ -1,0 +1,1 @@
+[[Mortal-NPC]]'s aligned with the inquisition

@@ -1,0 +1,5 @@
+* Father - [[Elonzo Nightshade]]
+* Mother - [[Constance Nightshade]]
+* Son - [[Edgar Nightshade]]
+* Daughter - [[Kate Nightshade]]
+* Servants - [[Brick]], [[Foot]]

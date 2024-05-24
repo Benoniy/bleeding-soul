@@ -1,0 +1,1 @@
+Each dot represents both the level of the discipline and the number of powers that you have

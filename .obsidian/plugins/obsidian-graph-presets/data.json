@@ -1,0 +1,24 @@
+{
+  "version": "0.8.0",
+  "data": {
+    "presets": {
+      "1715452511668": {
+        "applied": 1715731648708,
+        "target": "global"
+      }
+    }
+  },
+  "preferences": {
+    "enablePresetCommands": true,
+    "presetsFolder": "00-graph-presets",
+    "sortBy": "presetNameAsc",
+    "markdownPresets": {
+      "inlineSearchQuery": false,
+      "inlineColorGroups": false
+    },
+    "restoreZoom": true,
+    "restoreCollapsedState": false,
+    "globalFilter": "",
+    "autoApplyPreset": true
+  }
+}

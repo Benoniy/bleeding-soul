@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "d68ae668fc6a22e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4420e71249ad1735",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9925a1a64652e950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objects/The Anunnaki.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6c9e7a2a6c646cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules & Resources/Mechanics/Merits and Flaws.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f417048751df141",
+    "type": "split",
+    "children": [
+      {
+        "id": "db606d5075175d3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bfe768c556dea51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Characters - Players/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b70201e857a7c339",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b75f6f4ca125b36",
+            "type": "leaf",
+            "state": {
+              "type": "graph-presets-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb36ee4ffb2754f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fafc2d1c8cd870a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "edb22db269f1301e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09ea48c3fc51e84b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rules & Resources/Mechanics/Merits and Flaws.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e79e5f384175f016",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rules & Resources/Mechanics/Merits and Flaws.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7545acdd6899152",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "01a57231c419410b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rules & Resources/Mechanics/Merits and Flaws.md"
+              }
+            }
+          },
+          {
+            "id": "3c91ec1bfba6895c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "3374c3ae7f156037",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Rules & Resources/Mechanics/Merits and Flaws.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-graph-presets:Graph Presets": false
+    }
+  },
+  "active": "3bfe768c556dea51",
+  "lastOpenFiles": [
+    "Rules & Resources/Mechanics/Hunting.md",
+    "Rules & Resources/Mechanics/Merits and Flaws.md",
+    "Rules & Resources/Mechanics/Spending XP.md",
+    "Rules & Resources/Mechanics/Hunger.md",
+    "Rules & Resources/Mechanics/Generations and Blood potency.md",
+    "Rules & Resources/Mechanics/Frenzy.md",
+    "Rules & Resources/Mechanics/Feeding.md",
+    "Rules & Resources/Mechanics/Disciplines.md",
+    "Rules & Resources/Waking Up Every Night.md",
+    "test.md",
+    "Characters - Players/Kate Nightshade.md",
+    "Characters - Players/Ronald Stump.md",
+    "Objects/The Anunnaki.md",
+    "Rules & Resources/Mechanics/Willpower.md",
+    "Quests/Bad Blood.md",
+    "Factions and Groups/Faction Relations.md",
+    "Factions and Groups/Groups/The Pales.md",
+    "Factions and Groups/Factions/The Cult of Malkav.md",
+    "Rules & Resources/Mechanics/Torpor.md",
+    "Rules & Resources/Mechanics/Health.md",
+    "Rules & Resources/Mechanics/Stains.md",
+    "Rules & Resources/Checks/Rouse Check.md",
+    "Rules & Resources/Checks/Willpower Check.md",
+    "Rules & Resources/Checks/Skill Checks.md",
+    "Factions and Groups/Factions/The Hecata.md",
+    "Factions and Groups/Factions/The Hellsing Society.md",
+    "Rules & Resources/NPC Sheets/Graphing Files",
+    "Rules & Resources/NPC Sheets/Mortals/Untitled",
+    "Rules & Resources/NPC Sheets/Mortals/Generic",
+    "Untitled",
+    "Rules & Resources/NPC Sheets/Monsters",
+    "Rules & Resources/NPC Sheets/Vampires",
+    "Rules & Resources/NPC Sheets/Mortals/Animals",
+    "Rules & Resources/NPC Sheets/Mortals/Inquisition",
+    "Rules & Resources/NPC Sheets/Mortals",
+    "Rules & Resources/NPC Sheets",
+    "Untitled.canvas",
+    "Characters/Unaffiliated/Untitled.canvas"
+  ]
+}

@@ -1,0 +1,1 @@
+A book of the dead made by god knows who, currently being held by [[The Hellsing Society]]

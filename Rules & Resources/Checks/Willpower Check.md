@@ -1,0 +1,1 @@
+Making a willpower check is equivalent to rolling dice equal to the current amount of will power that you have not including willpower that has suffered damage. A fully undamaged willpower pool would equal 10 dice.
