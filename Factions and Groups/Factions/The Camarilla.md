@@ -7,7 +7,7 @@ tags:
 
 ---
 ### People of note:
-* [[Ray Pimb]] - Prince
+* [[Raymond Pimb]] - Prince
 
 ---
 ### Locations:

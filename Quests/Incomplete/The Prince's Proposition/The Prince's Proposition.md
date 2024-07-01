@@ -1,4 +1,4 @@
-A series of quests given by [[Ray Pimb]] to ultimately achieve the goal of helping [[Victoria Pimb]] to gain an aged body.
+A series of quests given by [[Raymond Pimb]] to ultimately achieve the goal of helping [[Victoria Pimb]] to gain an aged body.
 
 * [[The Prince's Proposition 1]]
 * [[The Prince's Proposition 2]]

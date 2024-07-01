@@ -1,3 +1,4 @@
+Garry is a member of the pales, he has short blonde hair and keeps himself presentable.
 
 ---
 ### Connections:

@@ -4,35 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "4420e71249ad1735",
+        "id": "181f6f73131a0dcc",
         "type": "tabs",
         "children": [
           {
-            "id": "9925a1a64652e950",
+            "id": "160993f49264a115",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objects/The Anunnaki.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "c6c9e7a2a6c646cf",
+            "id": "cdf316ffd1abfea2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules & Resources/Mechanics/Merits and Flaws.md",
+                "file": "Characters/Unaffiliated/Elly and Mr Sparkle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Characters - Players/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,11 +81,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.5071449279785
   },
   "right": {
     "id": "fafc2d1c8cd870a3",
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules & Resources/Mechanics/Merits and Flaws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules & Resources/Mechanics/Merits and Flaws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rules & Resources/Mechanics/Merits and Flaws.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,13 +159,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Rules & Resources/Mechanics/Merits and Flaws.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -191,44 +181,44 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "3bfe768c556dea51",
+  "active": "3374c3ae7f156037",
   "lastOpenFiles": [
-    "Rules & Resources/Mechanics/Hunting.md",
-    "Rules & Resources/Mechanics/Merits and Flaws.md",
-    "Rules & Resources/Mechanics/Spending XP.md",
-    "Rules & Resources/Mechanics/Hunger.md",
-    "Rules & Resources/Mechanics/Generations and Blood potency.md",
-    "Rules & Resources/Mechanics/Frenzy.md",
-    "Rules & Resources/Mechanics/Feeding.md",
-    "Rules & Resources/Mechanics/Disciplines.md",
-    "Rules & Resources/Waking Up Every Night.md",
-    "test.md",
+    "Characters - Players/Albert Horance Bloodsworth.md",
+    "Notes.md",
+    "Characters/Unaffiliated/Allen the hollow life.md",
+    "Characters/Unaffiliated/Elly and Mr Sparkle.md",
+    "Characters/Unaffiliated/The Entity (Malkav).md",
     "Characters - Players/Kate Nightshade.md",
+    "Locations/Unaffiliated/The abandoned warehouse.md",
+    "Rules/Mechanics/Generations and Blood potency.md",
+    "Quests/Incomplete/Find the Furry.md",
+    "Rules/Mechanics/Health and Damage.md",
+    "Rules/Mechanics/Merits and Flaws.md",
+    "Rules/Mechanics/Hunting.md",
+    "Rules/Mechanics/Hunger.md",
+    "Rules/Mechanics/Feeding.md",
+    "Rules/Waking Up Every Night.md",
+    "Rules/Mechanics/Torpor.md",
+    "Characters - Players/Alastor DeLucia.md",
     "Characters - Players/Ronald Stump.md",
-    "Objects/The Anunnaki.md",
-    "Rules & Resources/Mechanics/Willpower.md",
-    "Quests/Bad Blood.md",
-    "Factions and Groups/Faction Relations.md",
-    "Factions and Groups/Groups/The Pales.md",
-    "Factions and Groups/Factions/The Cult of Malkav.md",
-    "Rules & Resources/Mechanics/Torpor.md",
-    "Rules & Resources/Mechanics/Health.md",
-    "Rules & Resources/Mechanics/Stains.md",
-    "Rules & Resources/Checks/Rouse Check.md",
-    "Rules & Resources/Checks/Willpower Check.md",
-    "Rules & Resources/Checks/Skill Checks.md",
-    "Factions and Groups/Factions/The Hecata.md",
-    "Factions and Groups/Factions/The Hellsing Society.md",
-    "Rules & Resources/NPC Sheets/Graphing Files",
-    "Rules & Resources/NPC Sheets/Mortals/Untitled",
-    "Rules & Resources/NPC Sheets/Mortals/Generic",
+    "Locations/Unaffiliated/St Helena's Hospital.md",
+    "Quests/Completed/COMPLETE - Blood-Bath.md",
+    "Characters/The PCTU/Captain Arthur Lockwood.md",
+    "Characters/The Anarchs/Ricky Khan.md",
+    "Resources/NPC Sheets/Vampires/Anarch Revolutionary.md",
+    "Resources/NPC Sheets/Mortals/Generic/Clergy.md",
+    "Resources/NPC Sheets/Mortals/Animals/Guard Dog.md",
+    "Quests/Completed/COMPLETE - Bad Blood.md",
     "Untitled",
-    "Rules & Resources/NPC Sheets/Monsters",
-    "Rules & Resources/NPC Sheets/Vampires",
-    "Rules & Resources/NPC Sheets/Mortals/Animals",
-    "Rules & Resources/NPC Sheets/Mortals/Inquisition",
-    "Rules & Resources/NPC Sheets/Mortals",
-    "Rules & Resources/NPC Sheets",
+    "Quests/Incomplete",
+    "Quests/Completed",
+    "Resources",
+    "Characters/The PCTU",
+    "Rules & Resources/Equipment/Untitled",
+    "Rules/Equipment",
+    "Locations/The Anarchs",
+    "Resources/NPC Sheets/Graphing Files",
+    "Rules & Resources/NPC Sheets/Mortals/Untitled",
     "Untitled.canvas",
     "Characters/Unaffiliated/Untitled.canvas"
   ]

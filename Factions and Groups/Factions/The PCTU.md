@@ -1,0 +1,2 @@
+### Description:
+The Paranormal Counter-Terrorism Unit (PCTU) is a highly specialized and secretive military force dedicated to combating paranormal threats, including vampires, werewolves, ghosts, and other supernatural entities. Modelled after the elite capabilities of the SAS, the PCTU operates with the highest level of secrecy and is equipped with advanced weaponry and technology designed to neutralize paranormal threats.

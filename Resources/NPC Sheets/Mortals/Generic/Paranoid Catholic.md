@@ -6,7 +6,7 @@ This person is no great warrior or scholar, they're just a scared religious mort
 * Social 2
 * Mental 3
 ##### Secondary Attributes: 
-* Health 4
+* Health 1
 * Willpower 5
 ##### Exceptional Dice Pools:
 * Brawl, Firearms or Melee 2

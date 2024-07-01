@@ -5,3 +5,6 @@ If a kindred gains a hunger of over 5 when making their rouse checks waking up, 
 
 ### Willpower:
 At the beginning of a night, a character can remove an amount of Superficial damage up to their Composure or Resolve (use highest) from their Willpower track.
+
+### Stains:
+At this time have the players make any remorse checks they need to make, see [[Stains#Removing a stain|Removing a stain]]

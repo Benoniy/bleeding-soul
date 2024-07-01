@@ -13,3 +13,17 @@ An officer of the law is unlikely to investigate a vampire for being a vampire. 
 * Firearms 5
 * Investigation 5
 * Streetwise 5
+
+
+Armour 2
+rifle +2
+
+guy 1 - 0
+
+guy 2 - 3
+
+guy 3 - 5
+
+guy 4 - 4
+
+guy 5 - 0

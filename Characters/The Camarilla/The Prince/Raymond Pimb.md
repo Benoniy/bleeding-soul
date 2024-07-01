@@ -3,9 +3,8 @@ tags:
   - The-Camarilla
 ---
 ***Clan: Ventrue***
-### Description:
 At a glance he has the appearance of a clean cut Asian man standing at roughly 5 ft 9 inches tall, he has a kindly disposition. He is most often well groomed and wearing smart yet casual clothing ( A polo shirt and Shorts ), when working in his garden he additionally wears dungarees and thick gloves.
-### Background:
+
 This curious man is a hobby gardener most often found at his [[The Prince's Garden Plot|gardening plot]]. Obviously he can only garden at night. Whilst seeming genuine and wholesome he has an extreme violence hidden within, do not disappoint him.
 
 Has an office but doesn't use it, has [[Alice Wormwood]] pick up the logistics in his stead.
@@ -27,5 +26,9 @@ Has an office but doesn't use it, has [[Alice Wormwood]] pick up the logistics i
 * Smile while you work
 ### Pressure Points:
 * [[The Prince's Hidden Family]]
+### Attitude:
+* Kind, positive disposition
+* A happy and upbeat seeming person
+* Knows more then he's letting on
 
 ---

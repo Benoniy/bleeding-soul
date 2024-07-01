@@ -6,7 +6,6 @@ Part of a Second Inquisition assault team, the standard SI Delta is no mere rank
 * Physical 6
 * Social 4
 * Mental 4
-
 ##### Secondary Attributes: 
 * Health 8
 * Willpower 7

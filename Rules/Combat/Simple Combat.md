@@ -18,10 +18,12 @@ You would contest two of these rolls against each other. The winner does the dif
 * Targeting a specific location on a body or object may necessitate a more difficult roll at the storytellers discretion.
 
 ### Taking Damage:
+All kindred take superficial damage unless specified otherwise, All mortals take aggravated damage unless specified otherwise.
+
 Superficial - Half Damage marked with a / on the character sheet
 Aggravated - Full Damage marked with a X on the character sheet
 
 ### Healing:
-See [[Health#]]
+See [[Health and Damage]]
 
 ### Killing an enemy:

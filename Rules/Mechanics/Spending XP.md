@@ -12,5 +12,5 @@
 | Oblivion Ritual                     | Ritual level x 3  |                                                                                            |
 | Blood Sorcery Ritual                | Ritual level x 3  |                                                                                            |
 | Thin Blood Formula                  | Formula level x 3 |                                                                                            |
-|                                     |                   |                                                                                            |
+
 
